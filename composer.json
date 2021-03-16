@@ -1,5 +1,5 @@
 {
-    "name": "wp-cli/profile-command",
+    "name": "dz0ny/profile-command",
     "type": "wp-cli-package",
     "description": "Quickly identify what's slow with WordPress.",
     "homepage": "https://runcommand.io/wp/profile/",
@@ -7,14 +7,6 @@
     "authors": [],
     "require": {
         "php": ">=5.4",
-        "wp-cli/wp-cli": "^2"
-    },
-    "require-dev": {
-        "wp-cli/wp-cli-tests": "^2.1"
-    },
-    "config": {
-        "process-timeout": 7200,
-        "sort-packages": true
     },
     "extra": {
         "branch-alias": {
